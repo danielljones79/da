@@ -1,0 +1,1 @@
+{"counter": 4, "messages": {"bigsMcDuff": {"1": "My power bill is high", "2": "My power bill is higher still", "3": "How much to you weigh", "4": "Does your farm raise Hogs?"}}}

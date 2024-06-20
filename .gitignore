@@ -1,0 +1,8 @@
+
+.vscode/settings.json
+node/*/node_modules/*
+python/*/venv/*
+ts/*/node_modules/*
+ts/scratch/lib/*
+*.pem
+bash/comb/_Users_danjones_test_comb_comb.txt

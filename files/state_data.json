@@ -1,0 +1,402 @@
+{
+  "Alabama": {
+    "capital": "Montgomery",
+    "population": 4903185,
+    "size": 52423,
+    "abbreviation": "AL",
+    "sizeRank": 30,
+    "populationRank": 24
+  },
+  "Alaska": {
+    "capital": "Juneau",
+    "population": 733391,
+    "size": 665384,
+    "abbreviation": "AK",
+    "sizeRank": 1,
+    "populationRank": 48
+  },
+  "Arizona": {
+    "capital": "Phoenix",
+    "population": 7359000,
+    "size": 113998,
+    "abbreviation": "AZ",
+    "sizeRank": 6,
+    "populationRank": 14
+  },
+  "Arkansas": {
+    "abbreviation": "AR",
+    "capital": "Little Rock",
+    "sizeRank": 32,
+    "populationRank": 34,
+    "size": 53183,
+    "population": 3017804
+  },
+  "California": {
+    "abbreviation": "CA",
+    "capital": "Sacramento",
+    "sizeRank": 3,
+    "populationRank": 1,
+    "size": 163696,
+    "population": 39512223
+  },
+  "Colorado": {
+    "abbreviation": "CO",
+    "capital": "Denver",
+    "sizeRank": 22,
+    "populationRank": 22,
+    "size": 104094,
+    "population": 5773714
+  },
+  "Connecticut": {
+    "abbreviation": "CT",
+    "capital": "Hartford",
+    "sizeRank": 36,
+    "populationRank": 36,
+    "size": 5543.3,
+    "population": 3565287
+  },
+  "Delaware": {
+    "abbreviation": "DE",
+    "capital": "Dover",
+    "sizeRank": 47,
+    "populationRank": 45,
+    "size": 1981,
+    "population": 973764
+  },
+  "Florida": {
+    "abbreviation": "FL",
+    "capital": "Tallahassee",
+    "sizeRank": 21,
+    "populationRank": 3,
+    "size": 65758,
+    "population": 21477737
+  },
+  "Georgia": {
+    "abbreviation": "GA",
+    "capital": "Atlanta",
+    "sizeRank": 24,
+    "populationRank": 8,
+    "size": 59425,
+    "population": 10617423
+  },
+  "Hawaii": {
+    "abbreviation": "HI",
+    "capital": "Honolulu",
+    "sizeRank": 50,
+    "populationRank": 46,
+    "size": 10931,
+    "population": 1455271
+  },
+  "Idaho": {
+    "abbreviation": "ID",
+    "capital": "Boise",
+    "sizeRank": 16,
+    "populationRank": 16,
+    "size": 83570,
+    "population": 1787065
+  },
+  "Illinois": {
+    "abbreviation": "IL",
+    "capital": "Springfield",
+    "sizeRank": 6,
+    "populationRank": 6,
+    "size": 57914,
+    "population": 12671821
+  },
+  "Indiana": {
+    "abbreviation": "IN",
+    "capital": "Indianapolis",
+    "sizeRank": 18,
+    "populationRank": 19,
+    "size": 36418,
+    "population": 6732219
+  },
+  "Iowa": {
+    "abbreviation": "IA",
+    "capital": "Des Moines",
+    "sizeRank": 29,
+    "populationRank": 29,
+    "size": 55790,
+    "population": 3155070
+  },
+  "Kansas": {
+    "abbreviation": "KS",
+    "capital": "Topeka",
+    "sizeRank": 32,
+    "populationRank": 32,
+    "size": 82278,
+    "population": 2913314
+  },
+  "Kentucky": {
+    "abbreviation": "KY",
+    "capital": "Frankfort",
+    "sizeRank": 30,
+    "populationRank": 31,
+    "size": 40409,
+    "population": 4467673
+  },
+  "Louisiana": {
+    "abbreviation": "LA",
+    "capital": "Baton Rouge",
+    "sizeRank": 25,
+    "populationRank": 25,
+    "size": 51843,
+    "population": 4648794
+  },
+  "Maine": {
+    "abbreviation": "ME",
+    "capital": "Augusta",
+    "sizeRank": 47,
+    "populationRank": 47,
+    "size": 35389,
+    "population": 1344212
+  },
+  "Maryland": {
+    "abbreviation": "MD",
+    "capital": "Annapolis",
+    "sizeRank": 23,
+    "populationRank": 22,
+    "size": 12407,
+    "population": 6045680
+  },
+  "Massachusetts": {
+    "abbreviation": "MA",
+    "capital": "Boston",
+    "sizeRank": 21,
+    "populationRank": 21,
+    "size": 10555,
+    "population": 6949503
+  },
+  "Michigan": {
+    "abbreviation": "MI",
+    "capital": "Lansing",
+    "sizeRank": 11,
+    "populationRank": 11,
+    "size": 96210,
+    "population": 9986857
+  },
+  "Minnesota": {
+    "abbreviation": "MN",
+    "capital": "Saint Paul",
+    "sizeRank": 20,
+    "populationRank": 20,
+    "size": 86933,
+    "population": 5639632
+  },
+  "Mississippi": {
+    "abbreviation": "MS",
+    "capital": "Jackson",
+    "sizeRank": 33,
+    "populationRank": 33,
+    "size": 49058,
+    "population": 2976149
+  },
+  "Missouri": {
+    "abbreviation": "MO",
+    "capital": "Jefferson City",
+    "sizeRank": 24,
+    "populationRank": 24,
+    "size": 69297,
+    "population": 6137428
+  },
+  "Montana": {
+    "abbreviation": "MT",
+    "capital": "Helena",
+    "sizeRank": 39,
+    "populationRank": 39,
+    "size": 147046,
+    "population": 1068778
+  },
+  "Nebraska": {
+    "abbreviation": "NE",
+    "capital": "Lincoln",
+    "sizeRank": 35,
+    "populationRank": 35,
+    "size": 77355,
+    "population": 1934408
+  },
+  "Nevada": {
+    "abbreviation": "NV",
+    "capital": "Carson City",
+    "sizeRank": 38,
+    "populationRank": 38,
+    "size": 110567,
+    "population": 3080156
+  },
+  "New Hampshire": {
+    "abbreviation": "NH",
+    "capital": "Concord",
+    "sizeRank": 48,
+    "populationRank": 48,
+    "size": 9351,
+    "population": 1359711
+  },
+  "New Jersey": {
+    "abbreviation": "NJ",
+    "capital": "Trenton",
+    "sizeRank": 15,
+    "populationRank": 14,
+    "size": 7356,
+    "population": 8882190
+  },
+  "New Mexico": {
+    "abbreviation": "NM",
+    "capital": "Santa Fe",
+    "sizeRank": 37,
+    "populationRank": 37,
+    "size": 121590,
+    "population": 2096829
+  },
+  "New York": {
+    "abbreviation": "NY",
+    "capital": "Albany",
+    "sizeRank": 4,
+    "populationRank": 4,
+    "size": 54475,
+    "population": 19453561
+  },
+  "North Carolina": {
+    "abbreviation": "NC",
+    "capital": "Raleigh",
+    "sizeRank": 13,
+    "populationRank": 13,
+    "size": 53821,
+    "population": 10488084
+  },
+  "North Dakota": {
+    "abbreviation": "ND",
+    "capital": "Bismarck",
+    "sizeRank": 42,
+    "populationRank": 42,
+    "size": 70761,
+    "population": 762062
+  },
+  "Ohio": {
+    "abbreviation": "OH",
+    "capital": "Columbus",
+    "sizeRank": 10,
+    "populationRank": 10,
+    "size": 44825,
+    "population": 11689100
+  },
+  "Oklahoma": {
+    "abbreviation": "OK",
+    "capital": "Oklahoma City",
+    "sizeRank": 28,
+    "populationRank": 28,
+    "size": 69049,
+    "population": 3956971
+  },
+  "Oregon": {
+    "abbreviation": "OR",
+    "capital": "Salem",
+    "sizeRank": 27,
+    "populationRank": 27,
+    "size": 98342,
+    "population": 4217737
+  },
+  "Pennsylvania": {
+    "abbreviation": "PA",
+    "capital": "Harrisburg",
+    "sizeRank": 7,
+    "populationRank": 6,
+    "size": 46058,
+    "population": 12801989
+  },
+  "Rhode Island": {
+    "abbreviation": "RI",
+    "capital": "Providence",
+    "sizeRank": 49,
+    "populationRank": 49,
+    "size": 1045,
+    "population": 1059361
+  },
+  "South Carolina": {
+    "abbreviation": "SC",
+    "capital": "Columbia",
+    "sizeRank": 22,
+    "populationRank": 23,
+    "size": 30001,
+    "population": 5148714
+  },
+  "South Dakota": {
+    "abbreviation": "SD",
+    "capital": "Pierre",
+    "sizeRank": 41,
+    "populationRank": 41,
+    "size": 77046,
+    "population": 884659
+  },
+  "Tennessee": {
+    "abbreviation": "TN",
+    "capital": "Nashville",
+    "sizeRank": 17,
+    "populationRank": 18,
+    "size": 42143,
+    "population": 6829174
+  },
+  "Texas": {
+    "abbreviation": "TX",
+    "capital": "Austin",
+    "sizeRank": 2,
+    "populationRank": 2,
+    "size": 268596,
+    "population": 28995881
+  },
+  "Utah": {
+    "abbreviation": "UT",
+    "capital": "Salt Lake City",
+    "sizeRank": 34,
+    "populationRank": 34,
+    "size": 84915,
+    "population": 3205958
+  },
+  "Vermont": {
+    "abbreviation": "VT",
+    "capital": "Montpelier",
+    "sizeRank": 46,
+    "populationRank": 46,
+    "size": 9615,
+    "population": 643077
+  },
+  "Virginia": {
+    "abbreviation": "VA",
+    "capital": "Richmond",
+    "sizeRank": 35,
+    "populationRank": 13,
+    "size": 42770,
+    "population": 8631393
+  },
+  "Washington": {
+    "abbreviation": "WA",
+    "capital": "Olympia",
+    "sizeRank": 12,
+    "populationRank": 11,
+    "size": 71362,
+    "population": 7614893
+  },
+  "West Virginia": {
+    "abbreviation": "WV",
+    "capital": "Charleston",
+    "sizeRank": 41,
+    "populationRank": 41,
+    "size": 24230,
+    "population": 1792147
+  },
+  "Wisconsin": {
+    "abbreviation": "WI",
+    "capital": "Madison",
+    "sizeRank": 22,
+    "populationRank": 20,
+    "size": 65498,
+    "population": 5893718
+  },
+  "Wyoming": {
+    "abbreviation": "WY",
+    "capital": "Cheyenne",
+    "sizeRank": 50,
+    "populationRank": 49,
+    "size": 97814,
+    "population": 578759
+  }
+}

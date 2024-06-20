@@ -1,0 +1,2 @@
+Error Code: 1235. This version of MySQL doesn't yet support '<window function>(DISTINCT ..)'
+Error Code: 3636. Recursive query aborted after 1001 iterations. Try increasing @@cte_max_recursion_depth to a larger value.

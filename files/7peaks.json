@@ -1,0 +1,72 @@
+{
+  "puncakJaya": {
+    "peakName": "Puncak Jaya",
+    "continent": "Oceania",
+    "country": "New Guinea",
+    "elevationInMeters": 4884,
+    "latitude": -5.966667,
+    "longitude": 139.633333,
+    "firstPersonToReachTheSummit": "Tommy G. Dorsey",
+    "oddsOfSurvival": 0.99
+  },
+"vinsonMassif": {
+    "peakName": "Vinson Massif",
+    "continent": "Antarctica",
+    "country": "Chile",
+    "elevationInMeters": 4892,
+    "latitude": -66.561111,
+    "longitude": -66.0725,
+    "firstPersonToReachTheSummit": "Douglas Mawson, Frank Wild, and Xavier Mertz",
+    "oddsOfSurvival": 0.95
+  },
+"elbrus": {
+    "peakName": "Elbrus",
+    "continent": "Europe",
+    "country": "Russia",
+    "elevationInMeters": 5642,
+    "latitude": 43.258333,
+    "longitude": 42.466667,
+    "firstPersonToReachTheSummit": "Andrey Kuznetsky and Fyodor Popov",
+    "oddsOfSurvival": 0.99
+  },
+ "kilimanjaro": {
+    "peakName": "Kilimanjaro",
+    "continent": "Africa",
+    "country": "Tanzania",
+    "elevationInMeters": 5895,
+    "latitude": -3.066667,
+    "longitude": 37.333333,
+    "firstPersonToReachTheSummit": "Hans Meyer and Austrian guide Gustav Adolf \"Gustl Brugger\"",
+    "oddsOfSurvival": 0.99
+  },
+ "denali": {
+    "peakName": "Denali",
+    "continent": "North America",
+    "country": "United States",
+    "elevationInMeters": 6190,
+    "latitude": 63.066667,
+    "longitude": -151.0,
+    "firstPersonToReachTheSummit": "Robert B. Marshall and Bill Fox",
+    "oddsOfSurvival": 0.91
+  },
+  "aconcagua": {
+    "peakName": "Aconcagua",
+    "continent": "South America",
+    "country": "Argentina",
+    "elevationInMeters": 6962,
+    "latitude": -32.654167,
+    "longitude": -70.0125,
+    "firstPersonToReachTheSummit": "Fritz Wiessner and Arturo B. \"Grummer Oelrich\"",
+    "oddsOfSurvival": 0.99
+  },
+  "mountEverest": {
+    "peakName": "Mount Everest",
+    "continent": "Asia",
+    "country": "Nepal",
+    "elevationInMeters": 8849,
+    "latitude": 27.988056,
+    "longitude": 86.925278,
+    "firstPersonToReachTheSummit": "Edmund Hillary and Tenzing Norgay",
+    "oddsOfSurvival": 0.96
+  }
+}

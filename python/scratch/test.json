@@ -1,0 +1,12 @@
+{
+  "Line1": "Value1",
+  "Line2": "Value2",
+  "Line3": "Value3",
+  "Line4": {
+    "Obj1": 2.49,
+    "Obj2": 0.23,
+    "Obj3": "4.23"
+  },
+  "Array1": ["Hat", 323, "Cap", "Helmet", 492],
+  "Array2": [0.22, "Sus"]
+}

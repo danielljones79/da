@@ -1,0 +1,160 @@
+{
+  "teachers": [
+    {
+      "name": "Ms. Johnson",
+      "classroom": "Room 101",
+      "subject": "Math",
+      "periods": ["Algebra I", "Geometry", "Prep", "Calculus", "Statistics", "Math Lab", "Math Competition Prep", "Linear Algebra"]
+    },
+    {
+      "name": "Mr. Smith",
+      "classroom": "Room 202",
+      "subject": "Science",
+      "periods": ["Prep", "Biology", "Chemistry", "Physics", "Chemistry", "Physics", "Biology", "Science Tutoring"]
+    },
+    {
+      "name": "Ms. Thompson",
+      "classroom": "Room 303",
+      "subject": "Language Arts",
+      "periods": ["English II", "English Literature", "English I", "English II", "English III", "AP English", "Creative Writing", "English I"]
+    },
+    {
+      "name": "Mr. Davis",
+      "classroom": "Room 404",
+      "subject": "Fine Arts",
+      "periods": ["Dance 1", "Dance 2", "HipHop", "Dance Cardio", "Ballroom", "Dance Team A", "Dance Team B", "Prep"]
+    },
+    {
+      "name": "Ms. Wilson",
+      "classroom": "Room 505",
+      "subject": "Fitness",
+      "periods": ["Physical Education", "Health", "Fitness Training", "Sports Medicine", "Prep", "Team Sports", "Individual Sports", "Fitness Tutoring"]
+    },
+    {
+      "name": "Mr. Lee",
+      "classroom": "Room 606",
+      "subject": "Life Skills",
+      "periods": ["Personal Finance", "Personal Finance", "Personal Finance", "Time Management", "Study Skills", "Prep", "Communication","Personal Finance"]
+    },
+    {
+      "name": "Ms. Patel",
+      "classroom": "Room 707",
+      "subject": "Technology",
+      "periods": ["Databases", "Web Development", "Databases", "Prep", "Networking", "Cybersecurity", "Databases", "Web Development"]
+    },
+    {
+      "name": "Mr. Brown",
+      "classroom": "Room 808",
+      "subject": "History",
+      "periods": ["European History", "World History", "US History", "Government", "Economics", "Prep", "Geography", "Civics"]
+    },
+    {
+      "name": "Ms. Rodriguez",
+      "classroom": "Room 909",
+      "subject": "Math",
+      "periods": ["Geometry", "Algebra II", "Prep", "Calculus", "Statistics", "Algebra I", "Math Competition Prep", "Geometry"]
+    },
+    {
+      "name": "Mr. Garcia",
+      "classroom": "Room 1010",
+      "subject": "Science",
+      "periods": ["Chemistry", "Biology", "Physics", "Environmental Science", "Prep", "Science Fair Prep", "Science Olympiad", "Science Tutoring"]
+    },
+    {
+      "name": "Ms. Jackson",
+      "classroom": "Room 1111",
+      "subject": "Language Arts",
+      "periods": ["Creative Writing", "Public Speaking", "Debate", "Prep", "English I", "English II", "English III", "AP English"]
+    },
+    {
+      "name": "Mr. Martin",
+      "classroom": "Room 1212",
+      "subject": "Fine Arts",
+      "periods": ["Percussion", "Prep", "Woodwinds", "Orchestra", "Advanced Brass", "Advanced Percussion", "Brass", "Advanced Woodwinds"]
+    },
+    {
+      "name": "Ms. Harris",
+      "classroom": "Room 1313",
+      "subject": "Fitness",
+      "periods": ["Health I", "Health II", "Sports Medicine", "Prep", "Cardio", "Volley Ball", "Basketball", "Baseball"]
+    },
+    {
+      "name": "Mr. Taylor",
+      "classroom": "Room 1414",
+      "subject": "Life Skills",
+      "periods": ["Personal Finance", "Career Development", "Time Management", "Study Skills", "Prep", "Leadership", "Communication", "Life Skills Tutoring"]
+    },
+    {
+      "name": "Mr. Rodrigo",
+      "classroom": "Room 5040",
+      "subject": "Languages",
+      "periods": ["Spanish I", "Spanish II", "Spanish I", "Spanish II", "Prep", "Spanish III", "Latin Culture", "AP Spanish"]
+    },
+    {
+      "name": "Ms. White",
+      "classroom": "Room 1515",
+      "subject": "Technology",
+      "periods": ["Web Development", "Prep", "Databases", "Advanced SQL", "Networking", "Operating Systems", "Cybersecurity"]
+    },
+    {
+      "name": "Mr. Black",
+      "classroom": "Room 1616",
+      "subject": "History",
+      "periods": ["Prep", "Ancient Rome", "World History", "US History", "Asia History", "US History", "US History", "Civics"]
+    },
+    {
+      "name": "Ms. Green",
+      "classroom": "Room 1717",
+      "subject": "Math",
+      "periods": ["Algebra I", "Calculus", "Geometry", "Prep", "Statistics", "Math Lab", "Math Competition Prep", "Math Tutoring"]
+    },
+    {
+      "name": "Mr. Brown",
+      "classroom": "Room 1818",
+      "subject": "Science",
+      "periods": ["Biology", "Chemistry", "Physics", "Environmental Science", "Prep", "Science Fair Prep", "Science Olympiad", "Science Tutoring"]
+    },
+    {
+      "name": "Ms. Thompson",
+      "classroom": "Room 1919",
+      "subject": "Language Arts",
+      "periods": ["English I", "English II", "English III", "AP English", "Book Club", "Poetry", "Prep", "English I"]
+    },
+    {
+      "name": "Mr. Davis",
+      "classroom": "Room 2020",
+      "subject": "Fine Arts",
+      "periods": ["Drawing", "Painting", "Sculpture", "Digital Photography", "Prep", "Art History", "Graphic Design", "Oil Painting"]
+    },
+    {
+      "name": "Ms. Wilson",
+      "classroom": "Room 2121",
+      "subject": "Fitness",
+      "periods": ["Physical Education", "Health", "Fitness Training", "Sports Medicine", "Prep", "Team Sports", "Individual Sports", "Weights"]
+    },
+    {
+      "name": "Mr. Lee",
+      "classroom": "Room 2222",
+      "subject": "Life Skills",
+      "periods": ["Personal Finance", "Career Development", "Time Management", "Study Skills", "Prep", "Leadership", "Communication", "Life Skills Tutoring"]
+    },
+    {
+      "name": "Ms. Patel",
+      "classroom": "Room 2323",
+      "subject": "Technology",
+      "periods": ["Java", "Computer Science", "Databases", "Web Development", "Databases", "Python", "Prep", "C++"]
+    },
+    {
+      "name": "Mr. Brown",
+      "classroom": "Room 2424",
+      "subject": "History",
+      "periods": ["US History", "Prep", "US History", "US History", "Government", "Economics", "Geography", "US History" ]
+    },
+    {
+      "name": "Ms. Rodriguez",
+      "classroom": "Room 2525",
+      "subject": "Math",
+      "periods": ["Algebra II", "Prep", "Calculus", "Statistics", "Math Lab", "Math Competition Prep", "Geometry II"]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Write a python application that computes the number of minutes betwen two datetimes.
+Generate a dict that contains 10 start and stop datetimes that you will use to test the application.
+The datetime spans should range from minutes to years appart.  They should include a date, hours, minutes and seconds of various 
+values to give us a good variety. Create a loop that loops over the 10 time ranges and 
+computes the number of minutes rounded up to the nearest whole minute between the start datetime
+and the end datetime.  Store the computed difference in the dict.  Convert the dict to a json
+object and print the json object.
